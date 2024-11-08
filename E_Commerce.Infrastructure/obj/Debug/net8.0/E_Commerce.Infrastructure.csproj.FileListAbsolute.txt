@@ -1,0 +1,15 @@
+D:\E_Commerce\E_Commerce.Infrastructure\bin\Debug\net8.0\E_Commerce.Infrastructure.deps.json
+D:\E_Commerce\E_Commerce.Infrastructure\bin\Debug\net8.0\E_Commerce.Infrastructure.dll
+D:\E_Commerce\E_Commerce.Infrastructure\bin\Debug\net8.0\E_Commerce.Infrastructure.pdb
+D:\E_Commerce\E_Commerce.Infrastructure\bin\Debug\net8.0\E_Commerce.Data.dll
+D:\E_Commerce\E_Commerce.Infrastructure\bin\Debug\net8.0\E_Commerce.Data.pdb
+D:\E_Commerce\E_Commerce.Infrastructure\obj\Debug\net8.0\E_Commerce.Infrastructure.csproj.AssemblyReference.cache
+D:\E_Commerce\E_Commerce.Infrastructure\obj\Debug\net8.0\E_Commerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\E_Commerce\E_Commerce.Infrastructure\obj\Debug\net8.0\E_Commerce.Infrastructure.AssemblyInfoInputs.cache
+D:\E_Commerce\E_Commerce.Infrastructure\obj\Debug\net8.0\E_Commerce.Infrastructure.AssemblyInfo.cs
+D:\E_Commerce\E_Commerce.Infrastructure\obj\Debug\net8.0\E_Commerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\E_Commerce\E_Commerce.Infrastructure\obj\Debug\net8.0\E_Commer.124E6787.Up2Date
+D:\E_Commerce\E_Commerce.Infrastructure\obj\Debug\net8.0\E_Commerce.Infrastructure.dll
+D:\E_Commerce\E_Commerce.Infrastructure\obj\Debug\net8.0\refint\E_Commerce.Infrastructure.dll
+D:\E_Commerce\E_Commerce.Infrastructure\obj\Debug\net8.0\E_Commerce.Infrastructure.pdb
+D:\E_Commerce\E_Commerce.Infrastructure\obj\Debug\net8.0\ref\E_Commerce.Infrastructure.dll

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "dXtUVwc9Pg5BSTleRQH29zZqpnAmCxSCfr4d7enIv0E=",
+  "Source": "E_Commerce.API",
+  "BasePath": "_content/E_Commerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E_Commerce.API\\wwwroot",
+      "Source": "E_Commerce.API",
+      "ContentRoot": "D:\\E_Commerce\\E_Commerce\\wwwroot\\",
+      "BasePath": "_content/E_Commerce.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\E_Commerce\\E_Commerce\\wwwroot\\images\\logo.png",
+      "SourceId": "E_Commerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E_Commerce\\E_Commerce\\wwwroot\\",
+      "BasePath": "_content/E_Commerce.API",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    }
+  ]
+}
